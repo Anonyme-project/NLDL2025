@@ -1,0 +1,9 @@
+__pycache__*
+/Data
+/Ref
+model*.tar
+model_dict*.pt
+/Outputs/Current
+Checkpoints
+/Outputs/Plots/*
+!/Outputs/Plots/Saved
